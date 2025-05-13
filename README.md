@@ -29,5 +29,7 @@ Step-by-step solution explaining how Sarah ends up with 8 apples.
 
 ## ✅ Features
   Step-by-step breakdown
+  
   Easy to modify or integrate into other tools
+  
   Uses a low-temperature model for accuracy
